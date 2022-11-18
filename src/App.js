@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       {/* Banner */}
-      <Nav />
+//       <Nav />
       <Banner />
       <Row
         title="Netflix Orignals"
